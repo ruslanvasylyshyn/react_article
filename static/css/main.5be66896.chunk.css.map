@@ -1,0 +1,1 @@
+{"version":3,"sources":["article.scss"],"names":[],"mappings":"AAAA,SACE,gBAAiB,CACjB,aAAc,CACd,kBAAmB","file":"main.5be66896.chunk.css","sourcesContent":[".wrapper {\r\n  max-width: 1000px;\r\n  margin: 0 auto;\r\n  text-align: justify;\r\n}\r\n"]}
